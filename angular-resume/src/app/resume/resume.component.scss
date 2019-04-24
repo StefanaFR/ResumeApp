@@ -1,0 +1,16 @@
+.panel {
+    width: 45%;
+    height: 50;
+    margin: 0.5em;
+    background-color: #edeae5;
+}
+
+.flexbox {
+    display: flex;
+    flex-flow: column;
+    justify-content: space-between;
+}
+
+.title {
+    align-content: center;
+}
